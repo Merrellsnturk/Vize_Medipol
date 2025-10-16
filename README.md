@@ -3,6 +3,15 @@ Programlama Günlüğü LaTeX Şablonu
 
 Bu şablon öğrencilerin dönem boyunca yaptığı çalışmaları belgelemeleri için hazırlanmıştır.
 
+Nasıl Kullanırım?
+Sağ üstte Code → Download ZIP seçeneğine tıkla.
+Overleaf’e giriş yap.
+New Project → Upload Project seçeneğine tıkla.
+ZIP dosyasını sürükle veya seç butonundan yükle.
+Overleaf tüm dosyaları açıp proje olarak ekleyecek.
+Eğer .zip yüklemeyi desteklemeyen bir sürümdeysen, dosyaları tek tek de Upload → Files ile ekleyebilirsin, ama ZIP en hızlı yöntemdir.
+#Kod derleyiciler ile de değişiklikler yapılabilir.
+
 Kullanım Notları:
 1. LaTeX editöründe (Overleaf veya yerel TeX) açın.
 2. Kapak sayfasında:
