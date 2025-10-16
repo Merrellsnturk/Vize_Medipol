@@ -19,12 +19,7 @@ Kullanım Notları:
 6. “Ek 1 – Resim Ekleme Rehberi” bölümü:
    - Sadece rehber amaçlıdır.
    - Teslimden önce bu bölümü silin.
-7. Kapak altındaki hazırlayan notu:
-   - Sadece kapakta görünür, ana metne geçmez.
-   - Eğer istersen PDF’de görünmemesini sağlamak için yorum satırı kullanabilirsiniz:
-     % Bu şablon öğrenciler için Adınız Soyadınız tarafından hazırlanmıştır.
 
 Sistem Gereksinimleri:
 - LaTeX dağıtımı (TeX Live, MikTeX veya Overleaf)
-- UTF-8 karakter kodlaması
 - pdfLaTeX veya XeLaTeX derleyici
